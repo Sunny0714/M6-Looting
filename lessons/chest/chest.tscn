@@ -10,6 +10,7 @@
 [ext_resource type="PackedScene" uid="uid://hdxqgspfcaur" path="res://lessons/items/potion.tscn" id="4_hb7wy"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_2au7y"]
+resource_local_to_scene = true
 shader = ExtResource("1_12as2")
 shader_parameter/line_color = Color(0, 0, 0, 1)
 shader_parameter/line_thickness = 3.0
